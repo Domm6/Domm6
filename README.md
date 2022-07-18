@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Dominic! 
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📺 Certifications</h2>
+
+- [Certification](https://www.google.com/)
+
+<h2> 🤳 Connect with me:</h2>
+
+ <a href="https://linktr.ee/dominic_parker">All Socials</a></h1>
+
 
 <!--
-**Domm6/Domm6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
