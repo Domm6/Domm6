@@ -5,7 +5,7 @@
 - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Certifications</h2>
+<h2>📄 Certifications:</h2>
 
 - [Certification](https://www.google.com/)
 
