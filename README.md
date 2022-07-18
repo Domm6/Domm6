@@ -4,6 +4,8 @@
 
 - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
   - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
+- <b>Harvard CS50 Course Practice Sets:</b>
+  - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
 
 <h2>📄 Certifications:</h2>
 
