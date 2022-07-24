@@ -12,7 +12,7 @@
 
 <h2>📄  Certifications:</h2>
 
-- [LearnQuest - Introduction to Java Certificate](  - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202))
+- [LearnQuest - Introduction to Java Certificate](https://drive.google.com/file/d/1EEYnKstz1k3mlLEoJOZi95rGqjEl0NQp/view?usp=sharing)
 
 <h2>🤳🏾  Connect with me:</h2>
 
