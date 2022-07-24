@@ -4,7 +4,7 @@
 
 - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
   - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
- - <b>Student Data Base App</b>
+- <b>Student Data Base App</b>
   - [Student Data Base App](https://github.com/Domm6/Student-Data-Base-App/tree/main/Student%20Management%20System)
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
