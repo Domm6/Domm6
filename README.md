@@ -10,10 +10,10 @@
   - [GPU Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/GPUWebScraper.java)
   - [Stock Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/stockWebScraper.java)
   - [Random Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/randomWebScraper.java)
-  
 - <b>Calculator App</b>
-  - [Calculator App](https://github.com/Domm6/Calculator-App)
-
+  - [Basic Calculator](https://github.com/Domm6/Calculator-App/blob/main/BasicCalculator.java)
+  - [Scientific Calculator](https://github.com/Domm6/Calculator-App/blob/main/ScientificCalculator.java)
+  - [Trigonometric Calculator](https://github.com/Domm6/Calculator-App/blob/main/TrigonometricCalculator.java)  
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
