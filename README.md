@@ -17,7 +17,7 @@
 
 <h2>📄  Certifications:</h2>
 
-- [LearnQuest - Introduction to Java Certificate](https://drive.google.com/file/d/1EEYnKstz1k3mlLEoJOZi95rGqjEl0NQp/view?usp=sharing)
+- [LearnQuest - Introduction to Java Certificate](https://coursera.org/verif)
 
 <h2>🤳🏾  Connect with me:</h2>
 
