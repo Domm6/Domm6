@@ -5,7 +5,7 @@
 - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
   - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
 - <b>Student Data Base App</b>
-  - [Student Data Base App](https://github.com/Domm6/Student-Data-Base-App/tree/main/Student%20Management%20System](https://github.com/Domm6/Student-Data-Base-App/blob/main/Student%20Management%20System/StudentDataBaseApp.java)
+  - [Student Data Base App](https://github.com/Domm6/Student-Data-Base-App/blob/main/Student%20Management%20System/StudentDataBaseApp.java)
 - <b>Web Scraper</b>
   - [GPU Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/GPUWebScraper.java)
   - [Stock Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/stockWebScraper.java)
