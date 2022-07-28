@@ -13,7 +13,8 @@
 - <b>Calculator App</b>
   - [Basic Calculator](https://github.com/Domm6/Calculator-App/blob/main/BasicCalculator.java)
   - [Scientific Calculator](https://github.com/Domm6/Calculator-App/blob/main/ScientificCalculator.java)
-  - [Trigonometric Calculator](https://github.com/Domm6/Calculator-App/blob/main/TrigonometricCalculator.java)  
+  - [Trigonometric Calculator](https://github.com/Domm6/Calculator-App/blob/main/TrigonometricCalculator.java) 
+  - [Testing Calculator](https://github.com/Domm6/Calculator-App/blob/main/TestingCalculator.java)
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
