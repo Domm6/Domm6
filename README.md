@@ -10,6 +10,9 @@
   - [GPU Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/GPUWebScraper.java)
   - [Stock Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/stockWebScraper.java)
   - [Random Web Scraper](https://github.com/Domm6/Web-Scraper/blob/main/src/randomWebScraper.java)
+  
+- <b>Calculator App</b>
+  - [Calculator App](https://github.com/Domm6/Student-Data-Base-App/blob/main/Student%20Management%20System/StudentDataBaseApp.java)
 
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
