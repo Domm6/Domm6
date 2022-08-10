@@ -16,7 +16,7 @@
   - [Trigonometric Calculator](https://github.com/Domm6/Calculator-App/blob/main/TrigonometricCalculator.java) 
   - [Testing Calculator](https://github.com/Domm6/Calculator-App/blob/main/TestingCalculator.java)
 - <b>Tic Tac Toe</b>
-  - [Tic Tac Toe](https://github.com/Domm6/Student-Data-Base-App/blob/main/Student%20Management%20System/StudentDataBaseApp.java)
+  - [Tic Tac Toe](https://github.com/Domm6/Tic-Tac-Toe/blob/main/TicTacToe.java)
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
