@@ -22,7 +22,7 @@
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
   
 <h2>💻  Data Structures and Algorithms Practice:</h2>
-- <b>Practice <a href="[https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s](https://github.com/Domm6/Data-Structures-Algo-Practice/tree/main/src)">Practice</a></b>
+- <b>Practice <a href="https://github.com/Domm6/Data-Structures-Algo-Practice/tree/main/src">Practice</a></b>
 
 <h2>📄  Certifications:</h2>
 
