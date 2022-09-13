@@ -20,6 +20,9 @@
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
+  
+  <h2>👨🏾‍💻  Data Structures and Algorithms Practice:</h2>
+  - [Practice](https://github.com/Domm6/Data-Structures-Algo-Practice/tree/main/src)
 
 <h2>📄  Certifications:</h2>
 
