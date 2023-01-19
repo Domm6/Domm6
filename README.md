@@ -34,7 +34,6 @@
 
 <h2>🤳🏾  Connect with me:</h2>
 
- <a href="https://linktr.ee/dominic_parker">All Socials</a></h1>
 
 
 <!--
