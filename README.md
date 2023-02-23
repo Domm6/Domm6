@@ -2,8 +2,8 @@
 
 <h2>👨🏾‍💻  Software Development Projects:</h2>
 
-- <b>Tic Tac Toe</b>
-  - [TArduino Board](https://github.com/Domm6/ArduinoProjectss)
+- <b>Arduino Board</b>
+  - [Arduino Board](https://github.com/Domm6/ArduinoProjectss)
   - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
   - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
 - <b>Student Data Base App</b>
