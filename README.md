@@ -25,7 +25,7 @@
 <h2>💻  Learning On My Own:</h2>
   
 - <b>Data Structures & Algorithms Practice</b>
-  - [Placeholder](https://github.com/Domm6/Data-Structures---Algorithms-Practice)
+  - [Practicing Problems](https://github.com/Domm6/Data-Structures---Algorithms-Practice)
 - <b>Learning Python</b>
   - [Learning Python](https://github.com/Domm6/LearningPython)
 - <b>AI Club Workshops</b>
