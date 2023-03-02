@@ -7,7 +7,7 @@
   - [Controlling Potentiometer](https://github.com/Domm6/ArduinoProjectss/blob/main/ControlPotentiometer/ControlPotentiometer.ino)
   - [Multiple LED](https://github.com/Domm6/ArduinoProjectss/blob/main/MultipleLED/MultipleLED.ino)
 - <b>Reddit Webscraper</b>
-  - [Practicing Extracting From Website](https://github.com/Domm6/RedditWebScraper/blob/main/main.py)
+  - [Practicing extracting from website](https://github.com/Domm6/RedditWebScraper/blob/main/main.py)
 - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
   - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
 - <b>Student Data Base App</b>
@@ -29,7 +29,13 @@
 - <b>AI Club Workshops</b>
   - [AI Club Workshops](https://github.com/Domm6/AIClubWorkshops)
   
-<h2>💻  Data Structures and Algorithms Practice:</h2>
+<h2>💻  Learnign On My Own:</h2>
+- <b>Learning Python</b>
+  - [Learning Python](https://github.com/Domm6/LearningPython)
+- <b>Harvard CS50 Course Practice Sets</b>
+  - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
+  - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
+  
 - <b><a href="https://github.com/Domm6/Data-Structures-Algo-Practice/tree/main/src">Practice</a></b>
 
 <h2>📄  Certifications:</h2>
