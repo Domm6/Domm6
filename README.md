@@ -28,6 +28,7 @@
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
   
 <h2>💻  Learning On My Own:</h2>
+  
 - <b>Learning Python</b>
   - [Learning Python](https://github.com/Domm6/LearningPython)
 - <b>AI Club Workshops</b>
