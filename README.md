@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻  Software Development Projects:</h2>
 
 - <b>Arduino Board</b>
-  - [Blinking LED](https://github.com/Domm6/ArduinoProjectss](https://github.com/Domm6/ArduinoProjectss/blob/main/BlinkingLED/BlinkingLED.ino)
+  - [Blinking LED](https://github.com/Domm6/ArduinoProjectss/blob/main/BlinkingLED/BlinkingLED.ino)
   - [Controlling Potentiometer](https://github.com/Domm6/ArduinoProjectss/blob/main/ControlPotentiometer/ControlPotentiometer.ino)
   - [Multiple LED](https://github.com/Domm6/ArduinoProjectss/blob/main/MultipleLED/MultipleLED.ino)
 - <b>Reddit Webscraper</b>
