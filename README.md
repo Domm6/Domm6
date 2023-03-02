@@ -8,8 +8,6 @@
   - [Multiple LED](https://github.com/Domm6/ArduinoProjectss/blob/main/MultipleLED/MultipleLED.ino)
 - <b>Reddit Webscraper</b>
   - [Practicing extracting from website](https://github.com/Domm6/RedditWebScraper/blob/main/main.py)
-- <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
-  - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
 - <b>Student Data Base App</b>
   - [Student Data Base App](https://github.com/Domm6/Student-Data-Base-App/blob/main/Student%20Management%20System/StudentDataBaseApp.java)
 - <b>Web Scraper</b>
@@ -23,22 +21,21 @@
   - [Testing Calculator](https://github.com/Domm6/Calculator-App/blob/main/TestingCalculator.java)
 - <b>Tic Tac Toe</b>
   - [Tic Tac Toe](https://github.com/Domm6/Tic-Tac-Toe/blob/main/TicTacToe.java)
-- <b>Harvard CS50 Course Practice Sets</b>
-  - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
-  - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
   
 <h2>💻  Learning On My Own:</h2>
   
+- <b>Data Structures & Algorithms Practice</b>
+  - [Placeholder](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
 - <b>Learning Python</b>
   - [Learning Python](https://github.com/Domm6/LearningPython)
 - <b>AI Club Workshops</b>
   - [AI Club Workshops](https://github.com/Domm6/AIClubWorkshops)
+- <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
+  - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
   
-- <b><a href="https://github.com/Domm6/Data-Structures-Algo-Practice/tree/main/src">Practice</a></b>
-
 <h2>📄  Certifications:</h2>
 
 - [LearnQuest - Core Java Specialization ](https://www.coursera.org/account/accomplishments/specialization/6KN3QRR3WXP2)
@@ -48,6 +45,9 @@
 - [LearnQuest - Java Class Library](https://www.coursera.org/account/accomplishments/verify/324RCD52GET9)
 
 <h2>🤳🏾  Connect with me:</h2>
+  
+- <b><a href="https://www.linkedin.com/in/dominic-parker6/">LinkedIn</a></b>
+- <b><a href="https://www.dominic-parker.com/">Website</a></b>
 
 
 
