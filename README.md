@@ -3,7 +3,9 @@
 <h2>👨🏾‍💻  Software Development Projects:</h2>
 
 - <b>Arduino Board</b>
-  - [Arduino Board](https://github.com/Domm6/ArduinoProjectss)
+  - [Blinking LED](https://github.com/Domm6/ArduinoProjectss](https://github.com/Domm6/ArduinoProjectss/blob/main/BlinkingLED/BlinkingLED.ino)
+  - [Controlling Potentiometer](https://github.com/Domm6/ArduinoProjectss/blob/main/ControlPotentiometer/ControlPotentiometer.ino)
+  - [Multiple LED](https://github.com/Domm6/ArduinoProjectss/blob/main/MultipleLED/MultipleLED.ino)
 - <b>Reddit Webscraper</b>
   - [Practicing extracting from website](https://github.com/Domm6/RedditWebScraper/blob/main/main.py)
 - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
