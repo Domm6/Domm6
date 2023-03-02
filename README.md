@@ -25,7 +25,7 @@
 <h2>💻  Learning On My Own:</h2>
   
 - <b>Data Structures & Algorithms Practice</b>
-  - [Placeholder](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
+  - [Placeholder](https://github.com/Domm6/Data-Structures---Algorithms-Practice)
 - <b>Learning Python</b>
   - [Learning Python](https://github.com/Domm6/LearningPython)
 - <b>AI Club Workshops</b>
