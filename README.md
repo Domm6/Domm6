@@ -4,6 +4,8 @@
 
 - <b>Arduino Board</b>
   - [Arduino Board](https://github.com/Domm6/ArduinoProjectss)
+- <b>Reddit Webscraper</b>
+  - [Practicing extracting from website](https://github.com/Domm6/RedditWebScraper/blob/main/main.py)
 - <b>Learning Java and Practice <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18059s">(Bro Code Youtube Course)</a></b>
   - [Practicing Basic Java Functions](https://github.com/Domm6/LearningJava/tree/main/src)
 - <b>Student Data Base App</b>
