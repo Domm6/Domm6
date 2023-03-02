@@ -30,6 +30,7 @@
   - [AI Club Workshops](https://github.com/Domm6/AIClubWorkshops)
   
 <h2>💻  Learnign On My Own:</h2>
+  
 - <b>Learning Python</b>
   - [Learning Python](https://github.com/Domm6/LearningPython)
 - <b>Harvard CS50 Course Practice Sets</b>
