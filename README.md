@@ -26,13 +26,12 @@
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
-- <b>AI Club Workshops</b>
-  - [AI Club Workshops](https://github.com/Domm6/AIClubWorkshops)
   
-<h2>💻  Learnign On My Own:</h2>
-  
+<h2>💻  Learning On My Own:</h2>
 - <b>Learning Python</b>
   - [Learning Python](https://github.com/Domm6/LearningPython)
+- <b>AI Club Workshops</b>
+  - [AI Club Workshops](https://github.com/Domm6/AIClubWorkshops)
 - <b>Harvard CS50 Course Practice Sets</b>
   - [Problem Set 1](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%201)
   - [Problem Set 2](https://github.com/Domm6/Harvard-CS50/tree/main/Problem%20Set%202)
