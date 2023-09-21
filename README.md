@@ -2,6 +2,8 @@
 
 <h2>👨🏾‍💻  Software Development Projects:</h2>
 
+- <b>HackMIT - Pantry Puzzle</b>
+  - [Pantry Puzzle](https://github.com/Domm6/HackMIT2023)
 - <b>Personal Website</b>
   - [Website](https://github.com/Domm6/PersonalWebsite)  
 - <b>Capital One Hackathon Project</b>
