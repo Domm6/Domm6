@@ -7,7 +7,9 @@
 - <b>Personal Website</b>
   - [Website](https://github.com/Domm6/PersonalWebsite)  
 - <b>Capital One Hackathon Project</b>
-  - [Reciept Keeper](https://github.com/Domm6/ReceiptSaver)  
+  - [Reciept Keeper](https://github.com/Domm6/ReceiptSaver)
+- <b>Weather App</b>
+  - [Weather App](https://github.com/Domm6/Weather-App) 
 - <b>Arduino Board</b>
   - [Blinking LED](https://github.com/Domm6/ArduinoProjectss/blob/main/BlinkingLED/BlinkingLED.ino)
   - [Controlling Potentiometer](https://github.com/Domm6/ArduinoProjectss/blob/main/ControlPotentiometer/ControlPotentiometer.ino)
