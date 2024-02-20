@@ -2,6 +2,8 @@
 
 <h2>👨🏾‍💻  Software Development Projects:</h2>
 
+- <b>TreeHacks - Concert Connect</b>
+  - [Concert Connect](https://github.com/Domm6/ConcertConnect/tree/updated_code)
 - <b>HackMIT - Pantry Puzzle</b>
   - [Pantry Puzzle](https://github.com/Domm6/HackMIT2023)
 - <b>Personal Website</b>
