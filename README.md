@@ -2,6 +2,14 @@
 
 <h2>👨🏾‍💻  Software Development Projects:</h2>
 
+- <b>CareerCompass</b>
+  - [CareerCompass](https://github.com/Domm6/Capstone-CareerCompass)
+- <b>Kudos Board</b>
+  - [Kudos Board](https://github.com/Domm6/Kudos-Board)
+- <b>Movie Playlist Site</b>
+  - [Flixster](https://github.com/Domm6/flixster-starter)
+- <b>Music Playlist Explorer</b>
+  - [Music Playlist Explorer](https://github.com/Domm6/site-unit2-project1-music-playlist-explorer-starter)
 - <b>TreeHacks - Concert Connect</b>
   - [Concert Connect](https://github.com/Domm6/ConcertConnect/tree/updated_code)
 - <b>HackMIT - Pantry Puzzle</b>
