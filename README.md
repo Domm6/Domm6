@@ -2,6 +2,8 @@
 
 <h2>👨🏾‍💻  Software Development Projects:</h2>
 
+- <b>JP Morgan Code For Good Hackathon</b>
+  - [Loadstar Children Full Stack Web/Mobile App](https://github.com/cfgjc24/Team-3)
 - <b>CareerCompass</b>
   - [CareerCompass](https://github.com/Domm6/Capstone-CareerCompass)
 - <b>Kudos Board</b>
